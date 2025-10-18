@@ -148,6 +148,13 @@ Check out my [n8n Twitter Thread Fetcher workflow](https://n8n.io/workflows/4088
 | Supabase Insertion & Upsertion & Retrieval | This workflow demonstrates how to perform insertion, upsertion, and retrieval operations with Supabase, specifically for handling vector embeddings and associated metadata. | Engineering | [Link to Template](Database_and_Storage/Supabase%20Insertion%20&%20Upsertion%20&%20Retrieval.json) |
 | Talk to your SQLite database with a LangChain AI Agent | This workflow allows users to interact with a SQLite database using a LangChain AI agent, enabling natural language queries and data retrieval from the database. | Data Analytics | [Link to Template](Database_and_Storage/Talk%20to%20your%20SQLite%20database%20with%20a%20LangChain%20AI%20Agent.json) |
 
+### DevOps / Server Automation
+
+| Title | Description | Link |
+|-------|-------------|------|
+| Linux System Update via Webhook | Trigger update & upgrade of your Debian-based server via an authenticated POST request and SSH. | SSH Tools | [Link to Template](devops/linux-update-via-webhook.json)
+| Docker Compose Controller via Webhook | Start or stop Docker Compose services on your server via authenticated HTTP POST request with n8n + SSH. | SSH Tools | [Link to Template](devops/docker-compose-controller.json) |
+
 ### Airtable
 
 | Title | Description | Department | Link |
