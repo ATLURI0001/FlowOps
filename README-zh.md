@@ -27,25 +27,6 @@
 
 ## 类别和模板列表
 
----
-
-🤖 想要自动翻译、重写和重新发布Twitter (X)线程吗？
-
-想要轻松地将整个Twitter (X)线程转换并以多种语言发布吗？  
-查看我的[n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Twitter线程（洪水）翻译器和发布工作流程——它在一个无缝过程中自动化提取、翻译、重写和发布。  
-非常适合创作者、营销人员和任何希望以最少的努力和超低成本接触新受众的人！
-
-👉 [在此尝试工作流程](https://n8n.io/workflows/4233-translate-and-repost-twitter-threads-in-multiple-languages-with-openai/)
-
----
-
-## 🧵 如果您想要抓取Twitter (X)线程，一定要查看这个工作流程
-
-想要快速且经济地提取和合并整个Twitter (X)线程吗？  
-查看我的[n8n Twitter线程获取器工作流程](https://n8n.io/workflows/4088-extract-and-merge-twitter-x-threads-using-twitterapiio/)——它闪电般快速、成本效益高，非常适合自动化Twitter线程提取用于研究、内容策划或存档！
-
----
-
 ### Gmail和Email自动化
 
 | 标题 | 描述 | 部门 | 链接 |
