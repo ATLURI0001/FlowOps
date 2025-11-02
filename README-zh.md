@@ -23,12 +23,6 @@
 ## 免责声明
 本仓库中的所有自动化模板均来自网络，仅在此上传以便于访问和分享。所有模板均非由仓库作者创建或拥有。如果您在使用这些模板时遇到任何问题、错误或损害，仓库作者不承担任何责任或义务。所有原始模板的权利均属于其各自的创建者。
 
----
-
-☕ 在深入了解长长的类别和模板列表之前，先来杯咖啡吧——如果您喜欢我的工作，别忘了给我买杯咖啡！
-
-<a href="https://buymeacoffee.com/enescingoz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 --- 
 
 ## 类别和模板列表
