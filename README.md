@@ -27,24 +27,6 @@ All automation templates in this repository were found online and are uploaded h
 
 ## Categories & Template List
 
----
-
-🤖 Want to translate, rewrite, and repost Twitter (X) threads automatically?
-
-Looking to effortlessly transform and publish entire Twitter (X) threads in multiple languages?  
-Check out my [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Twitter Thread (Flood) Translator & Poster workflow—it automates extraction, translation, rewriting, and posting in one seamless process.  
-Perfect for creators, marketers, and anyone aiming to reach new audiences with minimal effort and ultra-low cost!
-
-👉 [Try the workflow here](https://n8n.io/workflows/4233-translate-and-repost-twitter-threads-in-multiple-languages-with-openai/)
-
----
-
-## 🧵 If you want to scrape Twitter (X) threads, definitely check this workflow
-
-Looking to extract and merge entire Twitter (X) threads quickly and affordably?  
-Check out my [n8n Twitter Thread Fetcher workflow](https://n8n.io/workflows/4088-extract-and-merge-twitter-x-threads-using-twitterapiio/)-it’s lightning-fast, cost-effective, and perfect for automating Twitter thread extraction for research, content curation, or archiving!
-
----
 ### Gmail & Email Automation
 
 | Title | Description | Department | Link |
