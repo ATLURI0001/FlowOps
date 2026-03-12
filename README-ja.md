@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/enescingoz/awesome-n8n-templates?style=social" alt="GitHub Stars" /> <img src="https://img.shields.io/github/forks/enescingoz/awesome-n8n-templates?style=social" alt="GitHub Forks" /> <img src="https://img.shields.io/badge/templates-280+-blue" alt="Templates" /> <img src="https://img.shields.io/github/license/enescingoz/awesome-n8n-templates" alt="License" /> <img src="https://img.shields.io/github/last-commit/enescingoz/awesome-n8n-templates" alt="Last Commit" /> <img src="https://awesome.re/badge.svg" alt="Awesome" />
+  <img src="https://img.shields.io/github/stars/enescingoz/awesome-n8n-templates?style=social" alt="GitHub Stars" /> <img src="https://img.shields.io/github/forks/enescingoz/awesome-n8n-templates?style=social" alt="GitHub Forks" /> <img src="https://img.shields.io/badge/templates-280+-blue" alt="Templates" /> <img src="https://img.shields.io/badge/license-CC--BY--4.0-blue" alt="License" /> <img src="https://img.shields.io/github/last-commit/enescingoz/awesome-n8n-templates" alt="Last Commit" /> <img src="https://awesome.re/badge.svg" alt="Awesome" />
 </p>
 
 ---
