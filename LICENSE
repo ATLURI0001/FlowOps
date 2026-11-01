@@ -1,34 +1,24 @@
-Creative Commons Attribution 4.0 International License
+# FlowOps — Attribution
 
-Copyright (c) 2024-2026 Enes Cingoz
+**Repository:** https://github.com/ATLURI0001/FlowOps
 
-You are free to:
+**Maintainer:** Ramprasad Atluri
 
-  Share - copy and redistribute the material in any medium or format
-  Adapt - remix, transform, and build upon the material for any purpose,
-  even commercially.
+FlowOps is a maintained adaptation of an n8n automation workflow collection.
 
-Under the following terms:
+## Source Attribution
 
-  Attribution - You must give appropriate credit, provide a link to the
-  license, and indicate if changes were made. You may do so in any
-  reasonable manner, but not in any way that suggests the licensor
-  endorses you or your use.
+Original collection: [awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
 
-  No additional restrictions - You may not apply legal terms or
-  technological measures that legally restrict others from doing
-  anything the license permits.
+Original collection author: Enes Cingoz
 
-Notices:
+License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 
-  You do not have to comply with the license for elements of the
-  material in the public domain or where your use is permitted by an
-  applicable exception or limitation.
+## Modifications
 
-  No warranties are given. The license may not give you all of the
-  permissions necessary for your intended use. For example, other rights
-  such as publicity, privacy, or moral rights may limit how you use the
-  material.
+- Repository renamed to FlowOps.
+- Documentation and navigation updated.
+- Repository-specific promotional material removed.
+- Contribution guidelines customized.
 
-For the full license text, see:
-https://creativecommons.org/licenses/by/4.0/legalcode
+The original creators do not endorse this adaptation. Individual templates may have additional authorship or licensing requirements.
